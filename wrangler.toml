@@ -3,4 +3,5 @@ main = "./_worker.js"
 compatibility_date = "2023-05-26"
 
 [site]
+bucket = "."
 exclude = ["node_modules"]
