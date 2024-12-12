@@ -1,4 +1,6 @@
 name = "edtunnel"
 main = "./_worker.js"
 compatibility_date = "2023-05-26"
-# node_compat = true
+
+[site]
+exclude = ["node_modules"]
